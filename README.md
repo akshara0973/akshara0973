@@ -11,8 +11,8 @@ I’m a passionate Full-Stack Developer from India 🇮🇳, driven by innovatio
 ### 💭 Currently Exploring:
 🧩 Building hands-on projects to sharpen skills
 
-🌐 Recently built a website for NGO Lakshya Foundation 
- (Check it out : https://lakshyafoundation.org.in/ )
+🌐 Recently built a website for NGO Lakshya Foundation  
+(Check it out: https://lakshyafoundation.org.in/)
 
 🛠️ Scalable MERN stack architecture
 
@@ -76,5 +76,5 @@ I’m a passionate Full-Stack Developer from India 🇮🇳, driven by innovatio
 ![GIF](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
 
 
-*“Learning never exhausts the mind.” — Leonardo da Vinci*</br></br>
-![Profile Views](https://komarev.com/ghpvc/?username=Harsh-1711&color=blue)
+*“The only way to know is LIVE, LEarn & GROW.”*</br></br>
+![Profile Views](https://komarev.com/ghpvc/?username=akshara0973&color=purple)
