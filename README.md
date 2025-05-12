@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&center=true&vCenter=true&hCenter=true&width=550&lines=Ctrl+Shift+I:+dive+deep,+rise+above;Java+in+the+cup,+JavaScript+in+the+code;And+where+logic+meets+innovation+-+that's+our+stack)](https://git.io/typing-svg)
 
 # 👨‍💻 About Me
 I’m a passionate Full-Stack Developer from India 🇮🇳, driven by innovation and the power of technology to create meaningful impact. I love blending frontend elegance with backend logic to build seamless, user-focused web applications.
