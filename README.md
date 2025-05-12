@@ -74,6 +74,7 @@ I’m a passionate Full-Stack Developer from India 🇮🇳, driven by innovatio
 
 
 
-*“The only way to know is LIVE, LEarn & GROW.”*</br></br>
+<b><i>“The only way to know is LIVE, LEARN & GROW.”</i></b><br><br>
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=akshara0973&color=blue)
