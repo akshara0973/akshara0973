@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&center=true&vCenter=true&hCenter=true&width=500&lines=ERROR+4%3A04+SLEEP+NOT+FOUND;while(!(succeed=try()));%3B;>import+caffeine+as+fuel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&center=true&vCenter=true&hCenter=true&width=500&lines=ERROR+4%3A04+SLEEP+NOT+FOUND;while(!(succeed+%3D+try()));;import+caffeine+as+fuel)](https://git.io/typing-svg)
 
 
 # 👩‍💻 About Me
